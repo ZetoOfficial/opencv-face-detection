@@ -28,5 +28,5 @@
 Если вы хотите использовать изображение по умолчанию из репозитория:
 
 ```bash
-docker run --rm your-dockerhub-username/opencv-face-detection:latest
+docker run --rm zetoqqq/opencv-face-detection:latest
 ```
